@@ -1,17 +1,17 @@
+<!-- CABEÇALHO COM NOME E CARGO -->
 # 👨🏽‍💻 Giovani Silva
-
-
 **`FULL STACK DEVELOPER STUDENT`**
+<br>
 
-
+<!-- SEÇÃO SOBRE MIM -->
 ## Sobre Mim
 
 Sou **Giovani Silva Rodrigues**, tenho 19 anos e moro em **Brasília, DF**.
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** no UniCEUB e busco evoluir constantemente como **Desenvolvedor Full Stack**.
+<br>
 
-<br/>
-
+<!-- LINKS DE CONTATO E REDES SOCIAIS -->
 ## Contatos
 
 <div align="left">
@@ -22,9 +22,9 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** no UniCEUB e busco 
   <a href="https://giovanisilva.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-green?style=for-the-badge" height="35" alt="portfolio logo"/></a>
 </div>
+<br>
 
-<br/>
-
+<!-- LINGUAGENS E TECNOLOGIAS -->
 ## Linguagens e Tecnologias
 
 <div align="left">
@@ -63,11 +63,11 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** no UniCEUB e busco 
 />
   <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="VS Code" 
+    title="VS Code" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
   <img 
     align="left" 
@@ -77,12 +77,27 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** no UniCEUB e busco 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-</div>
+  <img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+  <img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
+</div>
+  
+<br/>
+<br/>
 <br/>
 
-###
-
 <img src="https://raw.githubusercontent.com/Jhovannyz/Jhovannyz/output/snake.svg" alt="Snake animation" />
-
-###
